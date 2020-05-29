@@ -4,7 +4,7 @@ Research about the composition of particle matters' data-features and quality co
 **Considering the sensitive of data, it's better not to upload data.**
 
 ### 1. Recent Work
-+ Learning the knowladge about atmospheric chemistry and getting the basic background.
++ Learning the knowledge about atmospheric chemistry and getting the basic background.
 + Reading some research articles and analysing data.
 + Exploring the key index and figuring how it works for QC process.
 
