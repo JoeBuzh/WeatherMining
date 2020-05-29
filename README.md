@@ -6,7 +6,7 @@ Research about the composition of particle matters' data-features and quality co
 ### 1. Recent Work
 + Learning the knowledge about atmospheric chemistry and getting the basic background.
 + Reading some research articles and analysing data.
-+ Exploring the key index and figuring how it works for QC process.
++ Exploring the key index and figuring out how it works for QC process.
 
 ### 2. Code and analyse
 + Extract data from PostgreSQL to local *.csv
